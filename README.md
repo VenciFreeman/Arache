@@ -5,6 +5,8 @@
 > Place all files in the same folder.
 > Ignore all the warnings.
 
+> ** Still need to improve, especially about anti-crawl. ** 
+
 ## spider.py
 
 - A spider that crawls down the comments on the specified page (including ratings and short comments) into a file called x.txt.
